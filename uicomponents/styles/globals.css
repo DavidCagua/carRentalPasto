@@ -1,0 +1,7 @@
+:root {
+  font-family: var(--font-family-mono);
+  font-weight: 700;
+  --primary-color: #1ea7fd;
+  --secondary-color: transparent;
+}
+/* https://templatemo.com/tm-570-chain-app-dev */

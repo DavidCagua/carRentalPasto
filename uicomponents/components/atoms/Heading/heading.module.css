@@ -1,0 +1,20 @@
+.heading {
+  display: inline-block;
+  line-height: 1;
+  color: #333;
+}
+.heading--default {
+  color: #333;
+}
+.heading--primary {
+  color: #333;
+}
+.heading--md {
+  font-size: 18px;
+}
+.heading--sm {
+  font-size: 16px;
+}
+.heading--xsm {
+  font-size: 14px;
+}

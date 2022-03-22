@@ -1,0 +1,33 @@
+.button {
+  border: 0;
+  border-radius: 3em;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+  line-height: 1;
+  width: 100%;
+  max-width: 300px;
+  min-width: max-content;
+}
+.button--primary {
+  color: var(--colors);
+  background-color: var(--colors-brand-poloblue);
+}
+.button--secondary {
+  color: #333;
+  background-color: transparent;
+}
+.button--sm {
+  font-size: 12px;
+  padding: 10px 16px;
+}
+.button--md {
+  font-size: 14px;
+  padding: 11px 20px;
+}
+.button--lg {
+  font-size: 16px;
+  padding: 12px 24px;
+}
